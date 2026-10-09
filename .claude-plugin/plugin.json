@@ -1,0 +1,25 @@
+{
+  "name": "practice-coach",
+  "displayName": "Coach",
+  "icon": "./.claude-plugin/icon.svg",
+  "version": "0.1.0",
+  "description": "A learning mode: Claude coaches, hints and scores, and cannot write the files you marked as yours.",
+  "author": {
+    "name": "Rama Krishna Bachu"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/ramankrishna/practice-coach",
+  "repository": "https://github.com/ramankrishna/practice-coach",
+  "documentationUrl": "https://github.com/ramankrishna/practice-coach#readme",
+  "supportUrl": "https://github.com/ramankrishna/practice-coach/issues",
+  "privacyPolicyUrl": "https://github.com/ramankrishna/practice-coach/blob/main/PRIVACY.md",
+  "termsOfServiceUrl": "https://github.com/ramankrishna/practice-coach/blob/main/LICENSE",
+  "keywords": [
+    "mod",
+    "learning",
+    "practice",
+    "education",
+    "guard"
+  ],
+  "types": "./types/index.d.ts"
+}

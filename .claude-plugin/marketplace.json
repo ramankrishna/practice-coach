@@ -1,0 +1,14 @@
+{
+  "name": "ramankrishna-practice-coach",
+  "description": "Coach, a mod for Claude Code by Rama Krishna Bachu.",
+  "owner": {
+    "name": "Rama Krishna Bachu"
+  },
+  "plugins": [
+    {
+      "name": "practice-coach",
+      "source": "./",
+      "description": "A learning mode: Claude coaches, hints and scores, and cannot write the files you marked as yours."
+    }
+  ]
+}
